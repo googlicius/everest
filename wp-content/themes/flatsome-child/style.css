@@ -1,0 +1,114 @@
+/*
+Theme Name: Flatsome Child Theme
+Theme URI: http://flatsome.uxthemes.com/
+Description: This is a child theme for Flatsome
+Author: UX Themes
+Author URI: http: //www.uxthemes.com/
+Template: flatsome
+Version: 2.5
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.row{
+	max-width: 75.5em;
+}
+
+.footer {
+    border-top: 4px solid #EEE;
+}
+
+.widget_nav_menu ul li {
+    text-transform: capitalize;
+    font-weight: normal;
+}
+
+.widget li a {
+    display: inline-block;
+}
+.columns {
+    padding-left: 0.5375em;
+    padding-right: 0.5375em;
+}
+.ux-slider, .ux-row-slider {
+    margin-bottom: 0px;
+}
+h3.section-title {
+    max-width: 100%;
+}
+.products .product-image {
+    min-height: 229px;
+    display: table;
+}
+.products .product-image .front-image {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.row .row {
+    margin-right: -0.7em;
+}
+
+li.product-small {
+    border: thin solid #eee;
+    margin-left: -1px;
+    min-height: 350px;
+    margin-top: -1px;
+}
+div#shop-sidebar {
+    padding: 10px 10px 10px 10px;
+    background-color: #fafafa;
+	margin-top: -1px;
+}
+.dark-header #masthead .wide-nav-search{
+	color: #333 !important;
+}
+
+#shop-sidebar aside{
+	clear: both;
+}
+
+
+#shop-sidebar .widget_layered_nav>ul{
+	max-height: 300px;
+}
+
+.widget_layered_nav ul li,
+ul.wcpf_attr_list li {
+    width: 50%;
+    float: left;
+    padding-left: 2%;
+    border-bottom: 0px;
+}
+.widget_layered_nav ul li a{
+	text-transform: initial;
+}
+
+.widget_layered_nav li .count {
+    float: none;
+}
+
+.widget_layered_nav .chosen a:hover {
+	color: #fafafa;
+}
+.widget_layered_nav .chosen a {
+    font-weight: bold;
+    padding: 8px 8px;
+    background-color: #00ced1;
+    color: #fafafa;
+}
+
+body{
+	color: #111;
+}
+
+/* Woocommerce */
+.product-small .product-image img{
+	height: 200px;
+}
+
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}

@@ -1,0 +1,1796 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome v2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Sun Mar 13 2016 04:36:28 GMT+0700 (SE Asia Standard Time)\n"
+"Last-Translator: admin <haidang009@gmail.com>\n"
+"Language-Team: \n"
+"Language: Vietnamese\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: vi_VN"
+
+#: archive.php:67
+msgid "Asides"
+msgstr ""
+
+#: archive.php:73
+msgid "Videos"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:51
+#: content-single.php:54
+#: content.php:58
+#: content.php:66
+#: content.php:109
+#: content.php:117
+#: content.php:167
+#: content.php:187
+msgid ", "
+msgstr ""
+
+#: content.php:112
+#: content.php:170
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:231
+msgid "Sidebar"
+msgstr ""
+
+#: inc/custom-css.php:177
+msgid "Hot"
+msgstr ""
+
+#: inc/extras.php:120
+msgid "Top Content"
+msgstr ""
+
+#: inc/post-types/blocks.php:33
+msgid "Shortcode"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:30
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:94
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:97
+msgid "YouTube"
+msgstr ""
+
+#: inc/shortcodes/share_follow.php:100
+msgid "Flickr"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:104
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/widgets/upsell-widget.php:105
+#: woocommerce/single-product/up-sells.php:40
+msgid "Complete the look"
+msgstr ""
+
+#: inc/admin/functions/functions.options.php
+msgid "Slider"
+msgstr ""
+
+#: inc/admin/functions/functions.options.php
+msgid "Grid"
+msgstr ""
+
+#: inc/admin/functions/functions.options.php
+msgid "Remov"
+msgstr ""
+
+#: inc/admin/functions/functions.options.php
+msgid "Change Wishlist Icon"
+msgstr ""
+
+#: inc/admin/functions/functions.options.php
+msgid "Set height of sticky header in px."
+msgstr "Đặt chiều cao của sticky header theo px"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Trang không tìm thấy."
+
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Có vẻ như không có gì trong này. Hãy thử những đường dẫn khác, hoặc sử dụng "
+"công cụ tìm kiếm?"
+
+#: archive.php:40
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Danh mục: %s"
+
+#: archive.php:43
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Thẻ"
+
+#: archive.php:50
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Tác giả"
+
+#: archive.php:58
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Hàng ngày"
+
+#: archive.php:61
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Hàng tháng"
+
+#: archive.php:64
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Hàng năm"
+
+#: archive.php:70
+msgid "Images"
+msgstr "Hình ảnh"
+
+#: archive.php:76
+msgid "Quotes"
+msgstr "Các trích dẫn"
+
+#: archive.php:79
+msgid "Links"
+msgstr "Các đường dẫn"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+
+#: comments.php:36
+#: comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Các bình luận cũ hơn"
+
+#: comments.php:37
+#: comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Các bình luận mới hơn &rarr;"
+
+#: comments.php:55
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Các bình luận đã bị đóng"
+
+#: content-page.php:17
+#: content-single.php:33
+#: content.php:47
+#: image.php:92
+#: page-left-sidebar-notitle.php:22
+#: page-right-sidebar-notitle.php:22
+msgid "Pages:"
+msgstr "Các trang:"
+
+#: content-single.php:59
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "Tin này đã được đăng trong %1$s và nhãn %2$s."
+
+#: content-single.php:61
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Tin này đã được đăng trong %1$s. Đánh dấu <a href=\"%3$s\" title=\"Đường dẫn "
+"đến %4$s\" rel=\"bookmark\">đường dẫn</a>."
+
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:61
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Đã đăng trong %1$s"
+
+#: content.php:71
+#: content.php:122
+#: content.php:192
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Đã đánh dấu %1$s"
+
+#: content.php:77
+#: content.php:133
+#: content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "Leave a comment"
+msgstr "Viết bình luận"
+
+#: content.php:77
+#: content.php:133
+#: content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1</strong> Bình luận"
+
+#: content.php:77
+#: content.php:133
+#: content.php:181
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>%</strong> Comments"
+msgstr "<strong>%</strong> Bình luận"
+
+#: functions.php:213
+msgid "Main Menu"
+msgstr "Menu chính"
+
+#: functions.php:214
+msgid "Footer Menu"
+msgstr "Menu chân trang"
+
+#: functions.php:215
+msgid "Top bar Menu"
+msgstr "Menu đầu trang"
+
+#: functions.php:216
+msgid "My Account Menu"
+msgstr "Menu tài khoản của tôi"
+
+#: functions.php:241
+msgid "Shop Sidebar"
+msgstr "Sidebar cửa hàng"
+
+#: functions.php:250
+msgid "Product Sidebar"
+msgstr "Sidebar sản phẩm"
+
+#: functions.php:260
+msgid "Footer 1 (4 column)"
+msgstr "Chân trang 1 (4 cột)"
+
+#: functions.php:270
+msgid "Footer 2 (4 column)"
+msgstr "Chân trang 2 (4 cột)"
+
+#: functions.php:349
+msgid "Flatsome Theme Options"
+msgstr "Các tùy chỉnh theme Flatsome"
+
+#: image.php:25
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Đã đăng <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> trong <a href=\"%6$s\" title=\"Return to "
+"%7$s\" rel=\"gallery\">%8$s</a>"
+
+#: image.php:36
+#: image.php:109
+#: inc/template-tags.php:77
+#: inc/template-tags.php:106
+msgid "Edit"
+msgstr "Sửa"
+
+#: image.php:101
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Đăng một bình luận\">Đăng một "
+"bình luận</a> hoặc để lại trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:103
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" "
+"rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"Bình luận đã đóng, nhưng bạn có thể để lại một trackback: <a "
+"class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" "
+"rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:105
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" "
+"title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Trackback đã đóng, nhưng bạn có thể <a class=\"comment-link\" href=\"#respond\" "
+"title=\"đăng một bình luận\">đăng một bình luận</a>."
+
+#: image.php:107
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Cả bình luận và trackback đều đã đóng"
+
+#: image.php:114
+#: woocommerce/single-product-reviews.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Trước"
+
+#: image.php:115
+#: woocommerce/single-product-reviews.php:60
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/custom-css.php:176
+msgid "New"
+msgstr "Mới"
+
+#: inc/custom-css.php:178
+msgid "Sale"
+msgstr "Giảm giá"
+
+#: inc/custom-css.php:179
+msgid "Popular"
+msgstr "Phổ biến"
+
+#: inc/extras.php:101
+#, php-format
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: inc/extras.php:126
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+"Nhập một giá trị vào trường này. Shortcode cũng được. Nó sẽ được hiển thị ở "
+"đầu danh mục"
+
+#: inc/post-types/blocks.php:30
+#: inc/widgets/woocommerce-subcategories-widget.php:108
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/post-types/blocks.php:35
+msgid "Date"
+msgstr "Ngày tháng"
+
+#: inc/shortcodes/share_follow.php:21
+msgid "Share on Facebook"
+msgstr "Chia sẻ qua Facebook"
+
+#: inc/shortcodes/share_follow.php:24
+msgid "Share on Twitter"
+msgstr "Chia sẻ qua Twitter"
+
+#: inc/shortcodes/share_follow.php:27
+msgid "Email to a Friend"
+msgstr "Gửi email cho một người bạn"
+
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Google+"
+msgstr "Chia sẻ qua Google+"
+
+#: inc/shortcodes/share_follow.php:73
+msgid "Follow us on Facebook"
+msgstr "Theo dõi chúng tôi trên Facebook"
+
+#: inc/shortcodes/share_follow.php:103
+msgid "Follow us on YouTube"
+msgstr "Theo dõi chúng tôi trên Youtube"
+
+#: inc/shortcodes/share_follow.php:76
+msgid "Follow us on Twitter"
+msgstr "Theo dõi chúng tôi trên Twitter"
+
+#: inc/shortcodes/share_follow.php:79
+msgid "Send us an email"
+msgstr "Gửi email cho chúng tôi"
+
+#: inc/shortcodes/share_follow.php:82
+msgid "Follow us on Pinterest"
+msgstr "Theo dõi chúng tôi trên Pinterest"
+
+#: inc/shortcodes/share_follow.php:85
+msgid "Follow us on Google+"
+msgstr "Theo dõi chúng tôi trên Google+"
+
+#: inc/shortcodes/share_follow.php:88
+msgid "Follow us on Instagram"
+msgstr "Theo dõi chúng tôi trên Instagram"
+
+#: inc/shortcodes/share_follow.php:91
+msgid "Subscribe to RSS"
+msgstr "Theo dõi RSS"
+
+#: inc/template-tags.php:49
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span> Các bài viết cũ"
+
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "Các bài viết mới hơn <span class=\"icon-angle-right\"></span>"
+
+#: inc/template-tags.php:93
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">nói:</span>"
+
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ xét duyệt"
+
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Đã đăng vào %s"
+
+#: inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "bởi %s"
+
+#: inc/template-tags.php:147
+#, php-format
+msgid "View all posts by %s"
+msgstr "Xem tất các tin từ %s"
+
+#: inc/template-tags.php:376
+msgid "Previous Post"
+msgstr "Bài viết trước"
+
+#: inc/template-tags.php:376
+msgid "Next Post"
+msgstr "Bài viết tiếp theo"
+
+#: search.php:35
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr "Các bài viết gần đây"
+
+#: inc/widgets/recent-posts.php:98
+msgid "Number of posts to show:"
+msgstr "Số bài viết hiển thị"
+
+#: inc/widgets/upsell-widget.php:20
+msgid "Add upsell products to product page"
+msgstr "Thêm sản phẩm được bán thêm vào trang sản phẩm"
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: no-results.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sẵn sàng đăng bài viết đầu tiên? <a href=\"%1$s\">Bắt đầu</a>."
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Xin lỗi, những không có kết quả nào khớp với tìm kiếm của bạn. Xin hãy thử "
+"vài từ khóa khác"
+
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Có vẻ như chúng tôi không tìm thấy thứ bạn cần. Tìm kiếm có thể giúp ích."
+
+#: page-checkout.php:17
+#: page-checkout.php:28
+msgid "Shopping Cart"
+msgstr "Giỏ hàng"
+
+#: page-checkout.php:19
+#: page-checkout.php:30
+msgid "Checkout details"
+msgstr "Chi tiết thanh toán"
+
+#: page-checkout.php:21
+#: page-checkout.php:32
+msgid "Order Complete"
+msgstr "Đặt hàng thành công"
+
+#: page-my-account.php:30
+#: woocommerce/checkout/form-checkout.php:41
+msgid "Login / Register with <strong>Facebook</strong>"
+msgstr "Đăng nhập / Đăng ký bằng <strong>Facebook</strong>"
+
+#: content-product.php:61
+#: woocommerce/content-product.php:61
+msgid "Quick View"
+msgstr "Xem nhanh"
+
+#: inc/admin/functions/functions.options.php:665
+msgid "Custom CSS"
+msgstr "Tùy chỉnh CSS"
+
+#: inc/admin/functions/functions.options.php:670
+msgid "Add custom CSS here"
+msgstr "Thêm CSS tùy chỉnh ở đây"
+
+#: inc/admin/functions/functions.options.php:677
+msgid "Custom CSS (Mobile only)"
+msgstr "Tùy chỉnh CSS (Mobile)"
+
+#: inc/admin/functions/functions.options.php:678
+msgid "Add custom CSS here for mobile view"
+msgstr "Thêm CSS ở đây cho kiểu xem trên điện thoại"
+
+#: inc/admin/functions/functions.options.php:690
+msgid "Logo and icons"
+msgstr "Logo và Icons"
+
+#: inc/admin/functions/functions.options.php:694
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/admin/functions/functions.options.php:695
+msgid "Upload logo here."
+msgstr "Tải logo lên ở đây"
+
+#: inc/admin/functions/functions.options.php:704
+msgid "Add your custom Favicon image. 16x16px .ico or .png file required."
+msgstr "Thêm hình ảnh Favicon của bạn. bắt buộc file 16x16px .ico hoặc file .png."
+
+#: inc/admin/functions/functions.options.php:711
+msgid "The Retina/iOS version of your Favicon. 144x144px .png file required."
+msgstr "Phiên bản Retina/iOS Favicon của bạn. bắt buộc file 144x144px .png."
+
+#: inc/admin/functions/functions.options.php:721
+msgid "Favicon upload has moved to"
+msgstr "Favicon đã được chuyển tới"
+
+#: inc/admin/functions/functions.options.php:727
+msgid "Custom Cart Icon"
+msgstr "Tùy chỉnh Icon giỏ hàng"
+
+#: inc/admin/functions/functions.options.php:734
+msgid "Dark Logo"
+msgstr "Logo tối"
+
+#: inc/admin/functions/functions.options.php:735
+msgid "Upload dark logo version here. Used for Transparent header template"
+msgstr "Tải phiên bản logo tối ở đây. Sử dụng cho header template trong suốt"
+
+#: inc/admin/functions/functions.options.php
+msgid "Sticky Logo"
+msgstr "Sticky Logo"
+
+#: inc/admin/functions/functions.options.php
+msgid "Upload custom sticky header logo"
+msgstr "Tải sticky header logo tùy chỉnh"
+
+#: inc/admin/functions/functions.options.php
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/admin/functions/functions.options.php
+msgid "Select Full width, boxed or framed layout"
+msgstr "Chọn layout Full width, boxed hoặc framed"
+
+#: inc/admin/functions/functions.options.php
+msgid "Layout Box Shadow"
+msgstr "Đổ bóng Layout box"
+
+#: inc/admin/functions/functions.options.php
+msgid "Add a subtle shadow around content"
+msgstr "Thêm một subtle shawdow quanh content"
+
+#: inc/admin/functions/functions.options.php
+msgid "Body Background Color"
+msgstr "Màu nền Body"
+
+#: inc/admin/functions/functions.options.php
+msgid "Pick a color for the background. Only shows on boxed layout (default:#eee)."
+msgstr ""
+"Chọn một màu cho nền. Chỉ hiển thị trên layout hộp (boxed layout) (mặc định: "
+"#eee)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Body Background Image"
+msgstr "Hình ảnh Body background"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Pick a pattern for background. Check <a href='http://subtlepatterns.com "
+"target='_blank'>here</a>  for awesome textures"
+msgstr ""
+"Pick a pattern for background. Check <a href='http://subtlepatterns.com "
+"target='_blank'>here</a>  for awesome textures"
+
+#: inc/admin/functions/functions.options.php
+msgid "Body Background Repeat"
+msgstr "Lặp Body Background"
+
+#: inc/admin/functions/functions.options.php
+msgid "Content text color"
+msgstr "Màu text nội dung"
+
+#: inc/admin/functions/functions.options.php
+msgid "Light or Dark content text color"
+msgstr "Màu text nội dung sáng hoặc tối"
+
+#: inc/admin/functions/functions.options.php
+msgid "Content background color"
+msgstr "Màu nền nội dung"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change background color for content"
+msgstr "Đổi màu nền của nội dung"
+
+#: inc/admin/functions/functions.options.php
+msgid "Header height"
+msgstr "Chiều cao header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Set height of header in px."
+msgstr "Đặt chiều cao của header theo px"
+
+#: inc/admin/functions/functions.options.php
+msgid "Logo container width"
+msgstr "Chiều rộng của logo container"
+
+#: inc/admin/functions/functions.options.php
+msgid "Set width of logo container. Height is same as header height"
+msgstr "Đặt chiều rộng của logo container. Chiều cao giống với header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Logo position"
+msgstr "Vị trí logo"
+
+#: inc/admin/functions/functions.options.php
+msgid "Select logo position"
+msgstr "Chọn vị trí logo"
+
+#: inc/admin/functions/functions.options.php
+msgid "Search position"
+msgstr "Vị trí ô tìm kiếm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change position of search in main navigation"
+msgstr "Thay đổi vị trí của ô tìm kiếm trong thanh điều hướng chính"
+
+#: inc/admin/functions/functions.options.php
+msgid "Main Navigation position"
+msgstr "Vị trí thanh điều hướng chính"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change position of main navigation"
+msgstr "Thay đổi vị trí của thanh điều hướng chính"
+
+#: inc/admin/functions/functions.options.php
+msgid "Main Navigation Size"
+msgstr "Kích thước thanh điều hướng chính"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change size of main navigation"
+msgstr "Thay đổi kích thước của thanh điều hướng chính"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show My Account dropdown"
+msgstr "Hiển thị Tài khoản của tôi kiểu dropdown"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show my account / login link in header"
+msgstr "Hiển thị đường dẫn tài khoản của tôi trên header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show Mini Cart"
+msgstr "Hiển thị giỏ hàng mini"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show cart in header (Requires WooCommerce)"
+msgstr "Hiển thị giỏ hàng trên header (Yêu cầu WooCommerce)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Layout mode"
+msgstr "Kiểu layout"
+
+#: inc/admin/functions/functions.options.php
+msgid "Header preset"
+msgstr "Header có sẵn"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show Right Content"
+msgstr "Hiển thị nội dung bên phải"
+
+#: inc/admin/functions/functions.options.php
+msgid "Sticky Header on scroll"
+msgstr "Sticky Header khi scroll"
+
+#: inc/admin/functions/functions.options.php
+msgid "Make header stick to top on scroll"
+msgstr "Header sticky luôn trên cùng khi scroll"
+
+#: inc/admin/functions/functions.options.php
+msgid "Sticky Header height"
+msgstr "Chiều cao Sticky header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Header text color"
+msgstr "Màu text header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Light or Dark header text color"
+msgstr "Màu text header Sáng hoặc Tối"
+
+#: inc/admin/functions/functions.options.php
+msgid "Header BG color"
+msgstr "Màu nền header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Pick header background color"
+msgstr "Chọn màu nền header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Header BG image"
+msgstr "Ảnh nền header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Upload background image to header"
+msgstr "Tải lên ảnh nền cho header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Header BG image position"
+msgstr "vị trí ảnh nền header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change header bg position"
+msgstr "Đổi vị trí ảnh nền header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show Top Bar"
+msgstr "Hiển thị thanh Top Bar"
+
+#: inc/admin/functions/functions.options.php
+msgid "Top Bar BG color"
+msgstr "Màu nền thanh topbar"
+
+#: inc/admin/functions/functions.options.php
+msgid "Pick a background color for top bar background (default: #58728a)."
+msgstr "Chọn một màu nều cho thanh top bar (mặc định: #58728a)."
+
+#: inc/admin/functions/functions.options.php
+msgid "Top bar left"
+msgstr "Top bar left"
+
+#: inc/admin/functions/functions.options.php
+msgid "Insert text or shortcodes here"
+msgstr "Chèn text hoặc shortcode ở đây"
+
+#: inc/admin/functions/functions.options.php
+msgid "Main Navigation background (For full width nav)"
+msgstr "Nền thanh điều hướng chính (For full width nav)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Main Navigation link color (For full width nav)"
+msgstr "Màu link Thanh điều hướng chính (For full width nav)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Full width Nav - Right menu content"
+msgstr "Full width Nav - Nội dung bên phải menu"
+
+#: inc/admin/functions/functions.options.php
+msgid "Insert content to right of the main menu. Shortcodes are allowed"
+msgstr "Chèn nội dung vào bên phải menu chính. Cho phép nhập shortcode"
+
+#: inc/admin/functions/functions.options.php
+msgid "Full width Nav - Top content"
+msgstr "Full width Nav - Top content"
+
+#: inc/admin/functions/functions.options.php
+msgid "Insert content for header beside logo or search. Shortcodes are allowed"
+msgstr "Chèn nội dung cho header cạnh logo hoặc ô tìm kiếm. Cho phép nhập shortcode"
+
+#: inc/admin/functions/functions.options.php
+msgid "Add shortcode or text here"
+msgstr "Thêm shortcode hoặc text ở đây"
+
+#: inc/admin/functions/functions.options.php
+msgid "After header HTML"
+msgstr "HTML sau header"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enter HTML that should be placed after header here. Shortcodes are allowed."
+msgstr "Nhập HTML đặt sau header ở đây. Cho phép nhập Shortcodes"
+
+#: inc/admin/functions/functions.options.php
+msgid "Homepage Intro HTML"
+msgstr "HTML giới thiệu trang chủ"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Enter HTML that would be placed before header on homepage. Use for Intro "
+"images, slides etc."
+msgstr ""
+"Nhập HTML sẽ được đặt trước header ngoài trang chủ. Dùng cho các hình ảnh "
+"Giới thiệu, slides,..."
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer"
+msgstr "Chân trang"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer bottom left content (copyright text)"
+msgstr "Nội dung bên trái Footer dưới cùng (copyright text)"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Add HTML or shortcodes here that will show beside Cart and My Account links "
+"or replace them."
+msgstr ""
+"Thêm HTML hoặc shortcode ở đây sẽ hiển thị cạnh Giỏ hàng và link Tài khoản "
+"của tôi hoặc thay thế chúng"
+
+#: inc/admin/functions/functions.options.php
+msgid "Insert text/html for left footer content"
+msgstr "Chèn text/html nội dung footer trái"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer bottom right content"
+msgstr "Nội dung footer dưới cùng bên phải"
+
+#: inc/admin/functions/functions.options.php
+msgid "Add image of creditcards etc. here"
+msgstr "Thêm hình ảnh của creditcards ở đây"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer 1 text color"
+msgstr "Màu chữ chân trang thứ nhất"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer 1 BG color"
+msgstr "Màu nền chân trang thứ nhất"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer 1 BG image"
+msgstr "Hình nền chân trang thứ nhất"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer 1 columns"
+msgstr "Các cột chân trang thứ nhất"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer 2 text color"
+msgstr "Màu text chân trang thứ 2"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer 2 BG color"
+msgstr "Màu nền chân trang thứ 2"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer 2 BG image"
+msgstr "Hình nền chân trang thứ 2"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer 2 columns"
+msgstr "Các cột của chân trang thứ 2"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer bottom bar text color"
+msgstr "Màu text nút bấm chân trang"
+
+#: inc/admin/functions/functions.options.php
+msgid "Light or Dark text color"
+msgstr "Màu text sáng hoặc tối"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer bottom bar BG color"
+msgstr "Màu nền nút bấm chân trang"
+
+#: inc/admin/functions/functions.options.php
+msgid "HTML before footer"
+msgstr "HTML trước chân trang"
+
+#: inc/admin/functions/functions.options.php
+msgid "HTML after footer"
+msgstr "HTML sau chân trang"
+
+#: inc/admin/functions/functions.options.php
+msgid "Disable Google fonts"
+msgstr "Vô hiệu hóa Google font"
+
+#: inc/admin/functions/functions.options.php
+msgid "Disable google fonts. No fonts will be loaded from Google."
+msgstr "Vô hiệu hóa Google font. Không có font nào được tải từ Goolge."
+
+#: inc/admin/functions/functions.options.php
+msgid "Heading fonts (h1,h2 etc)"
+msgstr "Heading font (h1, h2, ...)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Text fonts (paragraphs, buttons, sub-navigations)"
+msgstr "Text fonts (Đoạn văn bản, nút bấm, thanh điều hướng con)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Main navigation"
+msgstr "Thanh điều hướng chính"
+
+#: inc/admin/functions/functions.options.php
+msgid "Select heading fonts"
+msgstr "Chọn heading font (h1, h2, ...)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Alterntative font (.alt-font)"
+msgstr "Font thay thế (.alt-font)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Select alternative font"
+msgstr "Chọn font thay thế"
+
+#: inc/admin/functions/functions.options.php
+msgid "Character Sub-sets"
+msgstr "Character Sub-sets"
+
+#: inc/admin/functions/functions.options.php
+msgid "Choose the character sets you want."
+msgstr "Chọn tập kí tự bạn muốn"
+
+#: inc/admin/functions/functions.options.php
+msgid "Upload Custom Font"
+msgstr "Tải lên font tùy chỉnh"
+
+#: inc/admin/functions/functions.options.php
+msgid "Style and Colors"
+msgstr "Màu sắc và style"
+
+#: inc/admin/functions/functions.options.php
+msgid "Primary Color"
+msgstr "Màu chính"
+
+#: inc/admin/functions/functions.options.php
+msgid "Secondary Color"
+msgstr "Màu thứ 2"
+
+#: inc/admin/functions/functions.options.php
+msgid "Success Color"
+msgstr "Màu Success"
+
+#: inc/admin/functions/functions.options.php
+msgid "Default link color"
+msgstr "Màu đường dẫn mặc định"
+
+#: inc/admin/functions/functions.options.php
+msgid "Add to cart / Checkout buttons"
+msgstr "Thêm vào giỏ / Nút thanh toán"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change color for checkout buttons. Default is Secondary color"
+msgstr "Đổi màu của nút thanh toán. Mặc định là màu thứ 2"
+
+#: inc/admin/functions/functions.options.php
+msgid "Sale bubble"
+msgstr "Sale bubble"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change color of sale bubble. Default is Secondary color"
+msgstr "Đổi màu của sale bubble. Mặc định là màu thứ 2"
+
+#: inc/admin/functions/functions.options.php
+msgid "New bubble"
+msgstr "New bubble"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change color of the 'New' bubble."
+msgstr "Đổi màu của 'New' bubble."
+
+#: inc/admin/functions/functions.options.php
+msgid "Review Stars"
+msgstr "Các ngôi sao trong mục đánh giá"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change color of review stars"
+msgstr "Đổi màu của các ngôi sao phần đánh giá"
+
+#: inc/admin/functions/functions.options.php
+msgid "Button border radius"
+msgstr "Biên của button radius"
+
+#: inc/admin/functions/functions.options.php
+msgid "change radius on buttons"
+msgstr "Đổi radius của buttons"
+
+#: inc/admin/functions/functions.options.php
+msgid "Dropdown border color"
+msgstr "Màu đường biên của dropdown"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change color of dropdown border"
+msgstr "Đổi màu đường biên của dropdown"
+
+#: inc/admin/functions/functions.options.php
+msgid "Dropdown Background Color"
+msgstr "Màu nền dropdown"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change color of dropdown background"
+msgstr "Đổi màu nền của dropdown"
+
+#: inc/admin/functions/functions.options.php
+msgid "Dropdown Text Color"
+msgstr "Màu text dropdown"
+
+#: inc/admin/functions/functions.options.php
+msgid "Light or Dark dropdown color"
+msgstr "Màu sáng hoặc tối dropdown"
+
+#: inc/admin/functions/functions.options.php
+msgid "Product Page"
+msgstr "Trang sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Product Page layout"
+msgstr "Layout trang sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "No Sidebar"
+msgstr "Không có Sidebar"
+
+#: inc/admin/functions/functions.options.php
+msgid "Full Width"
+msgstr "Chiều rộng tối đa"
+
+#: inc/admin/functions/functions.options.php
+msgid "Left Sidebar"
+msgstr "Sidebar bên trái"
+
+#: inc/admin/functions/functions.options.php
+msgid "Right Sidebar"
+msgstr "Sidebar bên phải"
+
+#: inc/admin/functions/functions.options.php
+msgid "Right Sidebar - Full height"
+msgstr "Sidebar bên phải - Full height"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Enter HTML for footer here. Shortcodes are allowed. F.ex [block "
+"id='payments']"
+msgstr ""
+"Nhập HTML cho chân trang ở đây. Cho phép shortcode. Ví dụ [block "
+"id='payments']"
+
+#: inc/admin/functions/functions.options.php
+msgid "Select heading fonts.<br> Need inspiration? <br>Check popuplar"
+msgstr "Chọn heading font.<br> Cần cảm hứng? <br>Xem tại đây"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Upload Custom Font file here. (.ttf, .otf). You can select this font by "
+"selecting 'Custom font' in the settings above, or by CSS: h1 {font-family: "
+"customFont}"
+msgstr ""
+"Tải lên font tùy chỉnh ở đây. (.ttf, .otf). Bạn có thể chọn font này bằng "
+"cách chọn 'Font tùy chỉnh' ở cài đặt phía trên, hoặc bằng CSS: h1 {font-"
+"family: customFont}"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Change primary color. Used for primary buttons, shopping cart icon, Top bar "
+"background, etc."
+msgstr ""
+"Đổi màu chính. Được sử dụng cho các nút chính, icon giỏ mua hàng, nền TopBar,"
+" vv"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Change secondary color. Used for Add to cart, checkout buttons, review stars "
+"and sale bubble."
+msgstr ""
+"Đổi màu thứ 2. Được sử dụng cho Thêm vào giỏ hàng, các nút thanh toán, các "
+"sao đánh giá và sale bubble"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change the success color. Used for global success messages."
+msgstr "Đổi màu success. Dùng cho các thông báo thành công"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Change default link color. Used for product links, and links at pages and "
+"blog entries."
+msgstr ""
+"Đổi màu liên kết mặc định. Được sử dụng cho các liên kết sản phẩm, và liên "
+"kết ở trang và các mục blog."
+
+#: inc/admin/functions/functions.options.php
+msgid "Product Info style"
+msgstr "Style thông tin sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Select how you want to display product info..."
+msgstr "Chọn cách bạn muốn hiển thị thông tin sản phẩm ..."
+
+#: inc/admin/functions/functions.options.php
+msgid "Tabs"
+msgstr "Các thẻ"
+
+#: inc/admin/functions/functions.options.php
+msgid "Tabs Center"
+msgstr "Các thẻ ở giữa"
+
+#: inc/admin/functions/functions.options.php
+msgid "Tabs (Pills style. NEW!)"
+msgstr "Các thẻ (Pills style. MỚI!)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Sections"
+msgstr "Sections"
+
+#: inc/admin/functions/functions.options.php
+msgid "Accordion"
+msgstr "Accordion"
+
+#: inc/admin/functions/functions.options.php
+msgid "Vertical tab"
+msgstr "Thẻ dọc"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show Cart dropdown when product is added to cart"
+msgstr "Hiển thị giỏ hàng kiểu thả xuống khi sản phẩm được thêm vào giỏ"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show Mini-cart dropdown after product is added to cart."
+msgstr "Hiển thị giỏ hàng nhỏ sau khi sản phẩm được thêm vào giỏ"
+
+#: inc/admin/functions/functions.options.php
+msgid "Up-sell title"
+msgstr "Tiêu đề bán thêm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Product Image Zoom (NEW)"
+msgstr "Zoom hình ảnh sản phẩm (MỚI)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable zoom on product images when you hover your mouse."
+msgstr "Kích hoạt tính năng zoom hình ảnh sản phẩm khi bạn di chuột."
+
+#: inc/admin/functions/functions.options.php
+msgid "Related Products"
+msgstr "Các sản phẩm liên quan"
+
+#: inc/admin/functions/functions.options.php
+msgid "Related Products pr row"
+msgstr "Số sản phẩm liên quan mỗi dòng"
+
+#: inc/admin/functions/functions.options.php
+msgid "Max number of related products"
+msgstr "Số lượng sản phẩm liên quan lớn nhất"
+
+#: inc/admin/functions/functions.options.php
+msgid "Additional Global tab/section title"
+msgstr "Tiêu đề thẻ/section bổ sung"
+
+#: inc/admin/functions/functions.options.php
+msgid "Additional Global tab/section content"
+msgstr "Nội dung thẻ/section bổ sung"
+
+#: inc/admin/functions/functions.options.php
+msgid "Add additional tab content here... Like Size Charts etc"
+msgstr "Thêm thẻ bổ sung ở đây... Như Biểu đổ kích thước, ..."
+
+#: inc/admin/functions/functions.options.php
+msgid "Disable product gallery scrollbar"
+msgstr "Vô hiệu hóa product gallery scrollbar"
+
+#: inc/admin/functions/functions.options.php
+msgid "Remove the scrollbar thats on top of product gallery slider."
+msgstr "Xóa thanh trượt trên đầu product gallery slider"
+
+#: inc/admin/functions/functions.options.php
+msgid "HTML before Add To Cart button (Global)"
+msgstr "HTML trước nút thêm vào giỏ hàng (Global)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enter HTML and shortcodes that will show before Add to cart selections."
+msgstr "Nhập HTML và shortcodes sẽ hiển thị trước lựa chọn thêm vào giỏ hàng."
+
+#: inc/admin/functions/functions.options.php
+msgid "HTML after Add To Cart button (Global)"
+msgstr "HTML sau nút thêm vào giỏ (Global)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enter HTML and shortcodes that will show after Add to cart button."
+msgstr "Nhập HTML và shortcodes sẽ hiển thị sau nút Thêm vào giỏ hàng."
+
+#: inc/admin/functions/functions.options.php
+msgid "Category Page"
+msgstr "Trang danh mục sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Shop header"
+msgstr "Đầu trang cửa hàng"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Enter HTML that should be placed on top of main shop page. Shortcode are "
+"allowed."
+msgstr ""
+"Nhập HTML nên được đặt trên đầu trang của trang chính của cửa hàng. "
+"Shortcode được phép."
+
+#: inc/admin/functions/functions.options.php
+msgid "Shop sidebar"
+msgstr "Sidebar cửa hàng"
+
+#: inc/admin/functions/functions.options.php
+msgid "Select if you want a sidebar on product categories."
+msgstr "Chọn nếu bạn muốn một sidebar trên trang danh mục sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Product Grid style"
+msgstr "Kiểu lưới sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Select product grid style"
+msgstr "Chọn kiểu lưới sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Product Grid Frame Style"
+msgstr "Product Grid Frame Style"
+
+#: inc/admin/functions/functions.options.php
+msgid "Select product grid frame style"
+msgstr "Chọn style lưới (grid) sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Masonry Grid (NEW)"
+msgstr "Lưới Masonry (MỚI)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Display products as a Masonry Grid (Pinterest style)"
+msgstr "Hiển thị các sản phẩm như một lưới Masonry (phong cách Pinterest)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Add to cart button in grid"
+msgstr "Nút thêm vào giỏ trong grid"
+
+#: inc/admin/functions/functions.options.php
+msgid "Add cart icon in grid. Choose between a Icon or a button"
+msgstr "Icon thêm vào giỏ trong lưới (grid). Chọn Icon hoặc nút bấm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Product short description"
+msgstr "Mô tả ngắn sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show product short description in grid"
+msgstr "Hiển thị mô tả ngắn sản phẩm trong lưới"
+
+#: inc/admin/functions/functions.options.php
+msgid "Category Box style"
+msgstr "Style hộp danh mục"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change default category box style"
+msgstr "Đổi style mặc định hộp danh mục"
+
+#: inc/admin/functions/functions.options.php
+msgid "Text badge (default)"
+msgstr "Văn bản kiểu huy hiệu"
+
+#: inc/admin/functions/functions.options.php
+msgid "Text Overlay"
+msgstr "Văn bản kiểu Overlay"
+
+#: inc/admin/functions/functions.options.php
+msgid "Text Bounce"
+msgstr "Văn bản đổ bóng"
+
+#: inc/admin/functions/functions.options.php
+msgid "Text Normal"
+msgstr "Văn bản bình thường"
+
+#: inc/admin/functions/functions.options.php
+msgid "Breadcrumb size"
+msgstr "Kích thước breadcrumbs"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Change size of breadcrumb on product categories. Useful if you have long "
+"breadcrumbs."
+msgstr ""
+"Đổi kích thước của breadcrumbs trên trang danh mục sản phẩm. Hữu ích nếu bạn "
+"có breadcrumbs dài."
+
+#: inc/admin/functions/functions.options.php
+msgid "Normal"
+msgstr "Bình thường"
+
+#: inc/admin/functions/functions.options.php
+msgid "Medium"
+msgstr "Vừa"
+
+#: inc/admin/functions/functions.options.php
+msgid "Small"
+msgstr "Nhỏ"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show 'Home' in breadcrumb"
+msgstr "Hiển thị 'Home' trên breadcrumb"
+
+#: inc/admin/functions/functions.options.php
+msgid "Products per row - Desktop"
+msgstr "Số sản phẩm mỗi hàng - Máy tính"
+
+#: inc/admin/functions/functions.options.php
+msgid "Products per row - Mobile"
+msgstr "Số sản phẩm mỗi hàng - Điện thoại"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change product per row for category pages."
+msgstr "Đổi sản phẩm cho mỗi hàng trong trang danh mục sản phẩm."
+
+#: inc/admin/functions/functions.options.php
+msgid "Products per page"
+msgstr "Số sản phẩm mỗi trang"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change products per page."
+msgstr "Đổi số sản phẩm mỗi trang"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable Blog and Pages in Search result"
+msgstr "Thêm bài viết và Page trong kết quả tìm kiếm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable blog and pages in search result page."
+msgstr "Kích hoạt bài viết và các trang trong trang kết quả tìm kiếm."
+
+#: inc/admin/functions/functions.options.php
+msgid "Product image hover style"
+msgstr "Style hover hình ảnh sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change product image hover style"
+msgstr "Đổi style hover hình ảnh sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Fade in back"
+msgstr "Fade in back"
+
+#: inc/admin/functions/functions.options.php
+msgid "Zoom in"
+msgstr "Phóng to"
+
+#: inc/admin/functions/functions.options.php
+msgid "Disabled"
+msgstr "Vô hiệu hóa"
+
+#: inc/admin/functions/functions.options.php
+msgid "Sale bubble style"
+msgstr "Sale bubble style"
+
+#: inc/admin/functions/functions.options.php
+msgid "change sale bubble style"
+msgstr "đổi buble style"
+
+#: inc/admin/functions/functions.options.php
+#, c-format
+msgid "Display % instead of 'Sale!' in Sale bubble"
+msgstr "Hiển thị % thay cho 'Giảm giá!' trong Sale bubble"
+
+#: inc/admin/functions/functions.options.php
+#, c-format
+msgid "Show % instead of the sale text. This will override the bubble text."
+msgstr "Hiển thị %, thay cho sale text. Điều này sẽ ghi đè lên các bubble text."
+
+#: inc/admin/functions/functions.options.php
+msgid "Disable quick view"
+msgstr "Vô hiệu hóa xem nhanh"
+
+#: inc/admin/functions/functions.options.php
+msgid "Disable quick view in product grid"
+msgstr "Vô hiệu hóa xem nhanh trong lưới sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Wishlist Icon"
+msgstr "Wishlist Icon"
+
+#: inc/admin/functions/functions.options.php
+msgid "Heart (Default)"
+msgstr "Trái tim (Mặc định)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Plus"
+msgstr "Thêm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Star"
+msgstr "Ngôi sao"
+
+#: inc/admin/functions/functions.options.php
+msgid "List"
+msgstr "Danh sách"
+
+#: inc/admin/functions/functions.options.php
+msgid "Pen"
+msgstr "Pen"
+
+#: inc/admin/functions/functions.options.php
+msgid "Cart and Checkout"
+msgstr "Giỏ hàng và thanh toán"
+
+#: inc/admin/functions/functions.options.php
+msgid "Coupon on Checkout page"
+msgstr "Phiếu giảm giá trên trang thanh toán"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable coupon at checkout page."
+msgstr "Kích hoạt phiếu giảm giá tại trang thanh toán."
+
+#: inc/admin/functions/functions.options.php
+msgid "Continue Shopping button"
+msgstr "Nút tiếp tục mua hàng"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable 'Continue Shopping' button on Cart and Thank you page"
+msgstr "Kích hoạt nút 'Tiếp tục mua hàng' trên giỏ hàng và trang cảm ơn"
+
+#: inc/admin/functions/functions.options.php
+msgid "After cart content"
+msgstr "Nội dung sau giỏ hàng"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enter HTML that will show after cart here."
+msgstr "Nhập HTML sẽ hiển thị sau giỏ hàng ở đây."
+
+#: inc/admin/functions/functions.options.php
+msgid "Thank You page scripts"
+msgstr "Các script trang cảm ơn"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enter scripts for the thank you page here"
+msgstr "Nhập các script cho trang cảm ơn ở đây"
+
+#: inc/admin/functions/functions.options.php
+msgid "Catalog Mode"
+msgstr "Chế độ danh mục"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable catalog mode"
+msgstr "Kích hoạt chế độ danh mục"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Enable catalog mode. This will disable Add To Cart buttons / Checkout and "
+"Shopping cart."
+msgstr ""
+"Kích hoạt chế độ danh mục. Điều này sẽ vô hiệu hóa các nút Thêm vào giỏ hàng "
+"/ Thanh toán và giỏ hàng."
+
+#: inc/admin/functions/functions.options.php
+msgid "Disable prices"
+msgstr "Vô hiệu hóa giá"
+
+#: inc/admin/functions/functions.options.php
+msgid "Select to disable prices on category pages and product page."
+msgstr "Chọn để vô hiệu hóa giá trên các trang chuyên mục và trang sản phẩm."
+
+#: inc/admin/functions/functions.options.php
+msgid "Cart / Account replacement (header)"
+msgstr "thay thế Giỏ hàng / Tài khoản (header)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Add to cart replacement - Product page"
+msgstr "Thay thế Thêm giỏ hàng - Trang sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enter contact information or enquery form shortcode here."
+msgstr "Nhập thông tin liên lạc hoặc enquery form shortcode ở đây."
+
+#: inc/admin/functions/functions.options.php
+msgid "Blog"
+msgstr "Bài viết"
+
+#: inc/admin/functions/functions.options.php
+msgid "Blog list layout"
+msgstr "Layout danh sách"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change blog layout"
+msgstr "Đổi layout bài viết"
+
+#: inc/admin/functions/functions.options.php
+msgid "Blog list style"
+msgstr "Style bài viết"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change blog style"
+msgstr "Đổi style bài viết"
+
+#: inc/admin/functions/functions.options.php
+msgid "List style"
+msgstr "Style danh sách"
+
+#: inc/admin/functions/functions.options.php
+msgid "Pinterest style"
+msgstr "Pinterest style"
+
+#: inc/admin/functions/functions.options.php
+msgid "Blog homepage header"
+msgstr "Header trang chủ"
+
+#: inc/admin/functions/functions.options.php
+msgid "Add to cart replacement - Product Quick View"
+msgstr "Thay thế thêm vào giỏ hàng - Mục Xem nhanh Sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enter text that will show in product quick view"
+msgstr "Nhập văn bản sẽ hiển thị trong xem nhanh sản phẩm"
+
+#: inc/admin/functions/functions.options.php
+msgid "HTML after blog posts"
+msgstr "HTML sau bài viết"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Enter HTML or shortcodes that will be visible after blog posts. (Before "
+"comment box). Shortcodes are allowed"
+msgstr ""
+"Nhập HTML hoặc shortcodes sẽ được hiển thị sau khi viết bài. (Trước hộp bình "
+"luận). Shortcodes được phép"
+
+#: inc/admin/functions/functions.options.php
+msgid "Blog single post layout"
+msgstr "Layout bài viết đơn"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change blog post layout"
+msgstr "Đổi layout bài viết"
+
+#: inc/admin/functions/functions.options.php
+msgid "No sidebar (Centered)"
+msgstr "Không có sidebar (Hiển thị ở giữa)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Blog single post header style"
+msgstr "Style bài viết đơn"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change blog post style"
+msgstr "Đổi style bài viết"
+
+#: inc/admin/functions/functions.options.php
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/admin/functions/functions.options.php
+msgid "Big featured image"
+msgstr "Hình ảnh nổi bật lớn"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show author box"
+msgstr "Hiển thị tác giả"
+
+#: inc/admin/functions/functions.options.php
+msgid "Show author box on blog posts"
+msgstr "Hiển thị tác giả trên bài viết"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable Share Icons"
+msgstr "Kích hoạt các biểu tượng chia sẻ"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable Share icons on blog"
+msgstr "Kích hoạt các biểu tượng chia sẻ trên blog"
+
+#: inc/admin/functions/functions.options.php
+msgid "Parallax effect"
+msgstr "Hiệu ứng parallax"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable parallax effect on featured images"
+msgstr "Kích hoạt tính năng hiệu ứng parallax trên những hình ảnh nổi bật"
+
+#: inc/admin/functions/functions.options.php
+msgid "Featured Items"
+msgstr "Các mục nổi bật"
+
+#: inc/admin/functions/functions.options.php
+msgid "Featured Items Page"
+msgstr "Trang các mục nổi bật"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Set a custom page as parent for the Featured Items. <strong>NB: You might "
+"have to save Theme Options two times for the Featured Items permalinks to "
+"work properly.</strong>"
+msgstr ""
+"Thiết lập một trang tùy chỉnh như là cha mẹ cho các mục nổi bật. <strong> "
+"Lưu ý: Bạn có thể phải lưu các option của Theme hai lần cho các đường dẫn "
+"mục nổi bật để làm việc đúng cách </ strong>."
+
+#: inc/admin/functions/functions.options.php
+msgid "Items per page (Archive and Template pages)"
+msgstr "Số mục mỗi trang (Trang danh mục (archive) và trang mẫu (template))"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change items per page."
+msgstr "Đổi các mục mỗi trang"
+
+#: inc/admin/functions/functions.options.php
+msgid "Related items"
+msgstr "Các mục liên quan"
+
+#: inc/admin/functions/functions.options.php
+msgid "Change  style of related featured items"
+msgstr "Đổi style của các mục liên quan nổi bật"
+
+#: inc/admin/functions/functions.options.php
+msgid "Header"
+msgstr "Đầu trang"
+
+#: inc/admin/functions/functions.options.php
+msgid "Left (default)"
+msgstr "Bên trái (mặc định)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Right"
+msgstr "Bên phải"
+
+#: inc/admin/functions/functions.options.php
+msgid "Hide"
+msgstr "Ẩn"
+
+#: inc/admin/functions/functions.options.php
+msgid "Top Left (beside logo)"
+msgstr "Đầu bên trái (cạnh logo)"
+
+#: inc/admin/functions/functions.options.php
+msgid "Top Right"
+msgstr "Đầu bên phải"
+
+#: inc/admin/functions/functions.options.php
+msgid "Full width - Left"
+msgstr "Chiều rộng tối đa - Trái"
+
+#: inc/admin/functions/functions.options.php
+msgid "Full width - Centered"
+msgstr "Chiều rộng tối đa - Căn giữa"
+
+#: inc/admin/functions/functions.options.php
+msgid "Large"
+msgstr "Lớn"
+
+#: inc/admin/functions/functions.options.php
+msgid "Header Main - Right"
+msgstr "Đầu trang chính - Phải"
+
+#: inc/admin/functions/functions.options.php
+msgid "Top bar - Right"
+msgstr "Top bar - Phải"
+
+#: inc/admin/functions/functions.options.php
+msgid "Global settings"
+msgstr "Các cài đặt chung"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable minified CSS and JS"
+msgstr "Kích hoạt nén CSS và JS"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Speed up your site by enable the minified CSS and Javscript of flatsome. "
+"<strong>NB!</strong> style.css will not be loaded. Custom styles needs to be "
+"placed in Theme Option > HTML Blocks > Custom CSS."
+msgstr ""
+"Tăng tốc độ trang web của bạn bằng cách cho phép các CSS minified và "
+"javscript của flatsome. <Strong> Lưu ý! </ Strong> style.css sẽ không được "
+"nạp. style tùy chỉnh cần phải được đặt trong Theme Option > HTML Blocks > "
+"Tùy chỉnh CSS."
+
+#: inc/admin/functions/functions.options.php
+msgid "Flatsome Builder Beta"
+msgstr "Page Builder Beta"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable Flatsome Builder Beta."
+msgstr "Kích hoạt Page builder beta"
+
+#: inc/admin/functions/functions.options.php
+msgid "Maintenance Mode"
+msgstr "Chế độ bảo trì"
+
+#: inc/admin/functions/functions.options.php
+msgid "Enable Maintenance Mode for all users except admins."
+msgstr "Kích hoạt chế độ bảo trì cho tất các người dùng ngoại trừ admin"
+
+#: inc/admin/functions/functions.options.php
+msgid "Maintenance Mode Text"
+msgstr "Text chế độ bảo trì"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"The text that will be visible to your customers when accessing maintenance "
+"screen."
+msgstr ""
+"Văn bản sẽ được hiển thị cho khách hàng của bạn khi truy cập vào màn hình "
+"bảo trì."
+
+#: inc/admin/functions/functions.options.php
+msgid "Please check back soon.."
+msgstr "Xin hãy kiểm tra sớm..."
+
+#: inc/admin/functions/functions.options.php
+msgid "Header Scripts"
+msgstr "Header Scripts"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Add custom scripts inside HEAD tag. You need to have SCRIPT tag around the "
+"scripts."
+msgstr ""
+"Thêm các script tùy chỉnh trong thẻ HEAD. Bạn cần phải đóng mở thẻ SCRIPT "
+"cho các script"
+
+#: inc/admin/functions/functions.options.php
+msgid "Footer Scripts"
+msgstr "Footer Scripts"
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Here is the place to paste your Google Analytics code or any other JS code "
+"you might want to add to be loaded in the footer of your website."
+msgstr ""
+"Đây là nơi để dán mã Google Analytics của bạn hoặc bất kỳ mã JS khác mà bạn "
+"có thể muốn thêm vào trong footer của trang web của bạn."
+
+#: inc/admin/functions/functions.options.php
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at bottom of the category."
+msgstr ""
+"Nhập một giá trị vào trường này. Shortcode cũng được. Nó sẽ được hiển thị ở "
+"cuối danh mục"
+
+#: inc/admin/functions/functions.options.php
+msgid "Theme Options"
+msgstr "Tùy chỉnh theme"
